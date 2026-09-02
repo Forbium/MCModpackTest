@@ -3,6 +3,6 @@
   "minecraft_version": "1.21.1",
   "neoforge_version": "21.1.100",
   "pack_url": "https://github.com/Forbium/MCModpackTest/releases/download/modpacklauncher/LTest.7z",
-  "pack_sha256": "sha256:b8d8b9536ddf2d62d0326ae05aea4b6c46ef08e6ad8ff789e0bef0d6b291e698",
+  "pack_sha256": "b8d8b9536ddf2d62d0326ae05aea4b6c46ef08e6ad8ff789e0bef0d6b291e698",
   "changelog": "Первая версия сборки"
 }
