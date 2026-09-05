@@ -4,5 +4,12 @@
   "neoforge_version": "21.1.238",
   "pack_url": "https://github.com/Forbium/MCModpackTest/releases/download/modpacklauncher/LTest.7z",
   "pack_sha256": "b8d8b9536ddf2d62d0326ae05aea4b6c46ef08e6ad8ff789e0bef0d6b291e698",
-  "changelog": "Первая версия сборки"
+  "changelog": "Первая версия сборки",
+
+  "server_host": "193.39.168.160",
+  "server_port": 30391,
+
+  "launcher_version": "1.0.0",
+  "launcher_url": "https://github.com/USER/REPO/releases/download/v1.0.0/ModpackLauncher.exe",
+  "launcher_sha256": "REPLACE_WITH_SHA256_OF_ModpackLauncher.exe (опционально, но настоятельно рекомендуется)"
 }
