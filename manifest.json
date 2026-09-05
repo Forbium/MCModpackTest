@@ -1,5 +1,5 @@
 {
-  "modpack_version": "1.0.0",
+  "modpack_version": "1.0.1",
   "minecraft_version": "1.21.1",
   "neoforge_version": "21.1.238",
   "pack_url": "https://github.com/Forbium/MCModpackTest/releases/download/modpacklauncher/LTest.7z",
@@ -10,6 +10,6 @@
   "server_port": 30391,
 
   "launcher_version": "1.0.0",
-  "launcher_url": "https://github.com/USER/REPO/releases/download/v1.0.0/ModpackLauncher.exe",
-  "launcher_sha256": "REPLACE_WITH_SHA256_OF_ModpackLauncher.exe (опционально, но настоятельно рекомендуется)"
+  "launcher_url": "https://github.com/Forbium/MCModpackTest/releases/download/modpacklauncher-0.1/ModpackLauncher.exe",
+  "launcher_sha256": "4e04447c3d994e089cf0c279c47a2d8340194dc54de9b14646b39c67a6c9174e"
 }
